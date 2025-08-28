@@ -1,16 +1,20 @@
-## Hi there 👋
+# Welcome to my github page
+<ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ᴀᴄᴄᴏᴜɴᴛ ᴘᴀɢᴇ>
+ɪ ᴀᴍ ᴀ ᴘʀᴏɢʀᴀᴍᴍᴇʀ ᴡʜᴏ ɪꜱ ᴛᴇᴀᴄʜɪɴɢ
+ᴍʏꜱᴇʟꜰ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇꜱ.
 
-<!--
-**Dev-Something-Code/Dev-Something-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ᴅᴇᴠ ꜱᴏᴍᴇᴛʜɪɴɢ>
+~ᴛʜᴀᴛ'ꜱ ᴀʟʟ~
 
-Here are some ideas to get you started:
+<ꜱᴄʀᴀᴛᴄʜ ᴘᴀɢᴇ>
+ʜᴛᴛᴘꜱ://ꜱᴄʀᴀᴛᴄʜ.ᴍɪᴛ.ᴇᴅᴜ/ᴜꜱᴇʀꜱ/ᴅᴇᴠ-ꜱᴏᴍᴇᴛʜɪɴɢ
+(https://scratch.mit.edu/users/Dev-Something)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇꜱ>
+ᴘʏᴛʜᴏɴ, ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ, ɴᴏᴅᴇ.ᴊꜱ, ʟᴜᴀ(ʟᴜᴀᴜ - ʀᴏʙʟᴏx),ᴄ#, ꜱᴄʀᴀᴛᴄʜ, ᴛʏᴘᴇꜱᴄʀɪᴘᴛ (ᴀ ʟɪᴛᴛʟᴇ)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dev-Something-Code&theme=city_lights)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dev-Something-Code&theme=city_lights)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dev-Something-Code&theme=city_lights)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dev-Something-Code&theme=city_lights&utcOffset=8)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-Something-Code&theme=city_lights)
