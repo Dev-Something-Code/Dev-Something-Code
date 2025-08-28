@@ -7,7 +7,7 @@
 ʜᴛᴛᴘꜱ://ꜱᴄʀᴀᴛᴄʜ.ᴍɪᴛ.ᴇᴅᴜ/ᴜꜱᴇʀꜱ/ᴅᴇᴠ-ꜱᴏᴍᴇᴛʜɪɴɢ  
 [@ᴅᴇᴠ-ꜱᴏᴍᴇᴛʜɪɴɢ](https://scratch.mit.edu/users/Dev-Something)  
 
-# Using Languages
+# Using Languages / Social Media
 ![My Skills](https://skillicons.dev/icons?i=py,js,ts,nodejs,npm,html,css,lua,cs,github,discord)
 
 # Status
