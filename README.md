@@ -5,7 +5,7 @@
 
 <ꜱᴄʀᴀᴛᴄʜ ᴘᴀɢᴇ>  
 ʜᴛᴛᴘꜱ://ꜱᴄʀᴀᴛᴄʜ.ᴍɪᴛ.ᴇᴅᴜ/ᴜꜱᴇʀꜱ/ᴅᴇᴠ-ꜱᴏᴍᴇᴛʜɪɴɢ  
-[@Dev-Something](https://scratch.mit.edu/users/Dev-Something)  
+[@ᴅᴇᴠ-ꜱᴏᴍᴇᴛʜɪɴɢ](https://scratch.mit.edu/users/Dev-Something)  
 
 # Status
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dev-Something-Code&theme=city_lights)
