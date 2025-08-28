@@ -7,6 +7,13 @@
 ʜᴛᴛᴘꜱ://ꜱᴄʀᴀᴛᴄʜ.ᴍɪᴛ.ᴇᴅᴜ/ᴜꜱᴇʀꜱ/ᴅᴇᴠ-ꜱᴏᴍᴇᴛʜɪɴɢ  
 [@ᴅᴇᴠ-ꜱᴏᴍᴇᴛʜɪɴɢ](https://scratch.mit.edu/users/Dev-Something)  
 
+# Using Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 # Status
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dev-Something-Code&theme=city_lights)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dev-Something-Code&theme=city_lights)  
