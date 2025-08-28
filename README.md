@@ -8,7 +8,7 @@
   
 <ꜱᴄʀᴀᴛᴄʜ ᴘᴀɢᴇ>  
 ʜᴛᴛᴘꜱ://ꜱᴄʀᴀᴛᴄʜ.ᴍɪᴛ.ᴇᴅᴜ/ᴜꜱᴇʀꜱ/ᴅᴇᴠ-ꜱᴏᴍᴇᴛʜɪɴɢ  
-![@Dev-Something](https://scratch.mit.edu/users/Dev-Something)  
+[@Dev-Something](https://scratch.mit.edu/users/Dev-Something)  
   
 <ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇꜱ>  
 ᴘʏᴛʜᴏɴ, ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ, ɴᴏᴅᴇ.ᴊꜱ, ʟᴜᴀ(ʟᴜᴀᴜ - ʀᴏʙʟᴏx),ᴄ#, ꜱᴄʀᴀᴛᴄʜ, ᴛʏᴘᴇꜱᴄʀɪᴘᴛ (ᴀ ʟɪᴛᴛʟᴇ)  
