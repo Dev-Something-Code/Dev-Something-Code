@@ -8,7 +8,7 @@
 [@ᴅᴇᴠ-ꜱᴏᴍᴇᴛʜɪɴɢ](https://scratch.mit.edu/users/Dev-Something)  
 
 # Using Languages
-![My Skills](https://skillicons.dev/icons?i=py,js,html,css,lua,cs,github)
+![My Skills](https://skillicons.dev/icons?i=py,js,html,css,lua,cs,github,discord)
 
 # Status
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dev-Something-Code&theme=city_lights)
